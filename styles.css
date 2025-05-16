@@ -1,0 +1,10 @@
+.cuadro
+{
+  place-items: center;
+    width: 50%;
+    height: 50%;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    display: inline-block;
+    margin: 5px;
+}
